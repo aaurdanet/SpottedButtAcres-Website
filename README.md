@@ -1,7 +1,6 @@
 Spotted Butt Acres Static Website Project
 
-This repository contains the code for the Spotted Butt Acres website, a static one-page template designed to showcase the amenities and services offered by Spotted Butt Acres, a unique equestrian facility located in Ocala, FL.
-Table of Contents
+This repository contains the code for the Spotted Butt Acres website, a static one-page template designed to showcase the amenities and services offered by Spotted Butt Acres, a unique equestrian facility located in Ocala, FL. It was made using BootStrap
 
 Introduction
 
